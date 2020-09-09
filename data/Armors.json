@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"atypeId":5,"description":"Aun siendo de plástico protege de buena forma.","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":128,"name":"Tapa de Basurero","note":"","params":[0,0,0,2,0,0,0,0],"price":10},
+{"id":2,"atypeId":1,"description":"De tela algo débil, al menos protege del sol.","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":130,"name":"Gorra gastada","note":"","params":[0,0,0,1,0,0,0,0],"price":10},
+{"id":3,"atypeId":1,"description":"Polera barata de retail.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":135,"name":"Polera","note":"","params":[0,0,0,1,0,0,0,0],"price":300},
+{"id":4,"atypeId":1,"description":"Tejida con hilo de cera, se volvió popular rápidamente.","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":145,"name":"Pulsera de hilo","note":"","params":[0,0,0,0,1,0,0,0],"price":10}
+]

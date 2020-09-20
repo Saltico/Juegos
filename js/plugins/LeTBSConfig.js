@@ -6,6 +6,65 @@ Lecode.S_TBS.Config.Colors = {
 };
 
 /*-------------------------------------------------------------------------
+* Sprites Poses
+-------------------------------------------------------------------------*/
+Lecode.S_TBS.Config.Battler_Sprites = {
+
+// Config_name: data
+"Default": [
+// [pose_name,filename,frames]
+["idle", "_idle", 3],
+["move", "_move", 4],
+["dead", "_dead", 1]
+],
+
+"Angela": [
+    ["idle", "_idle", 1],
+    ["move", "_move", 4],
+    ["cast", "_cast", 1],
+    ["atk", "_atk", 4],
+    ["hit", "_hit", 1],
+    ["dead", "_dead", 1],
+    ["turn_start", "_victory", 5],
+    ["victory", "_victory", 5]
+],
+
+"Duran": [
+    ["idle", "_idle", 1],
+    ["move", "_move", 4],
+    ["cast", "_cast", 3],
+    ["atk", "_atk", 4],
+    ["hit", "_hit", 1],
+    ["dead", "_dead", 1]
+],
+
+"Rabbit": [
+["idle", "_idle", 1],
+["move", "_move", 3],
+["atk", "_atk", 3],
+["hit", "_hit", 1],
+["dead", "_dead", 1]
+],
+
+"Mago": [
+["idle", "_idle", 1],
+["move", "_move", 3],
+["cast", "_cast", 2],
+["atk", "_atk", 4],
+["hit", "_hit", 1],
+["dead", "_dead", 1]
+],
+
+"Evil Statue": [
+["idle", "_idle", 1],
+["cast", "_cast", 3],
+["atk", "_cast", 3],
+["dead", "_dead", 1]
+]
+
+};
+
+/*-------------------------------------------------------------------------
 * Tile effects
 -------------------------------------------------------------------------*/
 Lecode.S_TBS.Config.Tile_Effects = {

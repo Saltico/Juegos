@@ -313,6 +313,18 @@ Lecode.S_TBS.Config.Projectiles = {
         speed: 12,
         trajectory: "line(0)"
     },
+    "bola_papel_lanzable": {
+        filename: "bola_papel_lanzable",
+        adapt_angle: true,
+        speed: 12,
+        trajectory: "line(0)"
+    },
+    "balon_futbol": {
+        filename: "balon_futbol",
+        adapt_angle: true,
+        speed: 12,
+        trajectory: "line(0)"
+    },
 
 };
 
